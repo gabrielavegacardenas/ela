@@ -2,10 +2,10 @@
 
 .texto{
    
-    font-size: 40px;
-    padding-top: 140px;
+    font-size: 30px;
+padding: 98px;
     text-align: justify;
-    color: rgb(14, 4, 4);
+    color: rgb(49, 44, 44);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .principal{
@@ -25,17 +25,15 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 
-.img1{
-    height: 193px;
-    width: 300px;
-    background-image: url("piedra.jpeg");
-    background-repeat: no-repeat;
-    float: right;
+
+.titulo{
+font-size: 50px;
+
 }
-.img2{
-    height: 500px;
-    width: 500px;
-    background-image: url("medellin.jpeg");
-    background-repeat: no-repeat;
-    float: left;
+
+.img1{
+height: 289px;
+width: 500px;
+background-image: url(imag.jpeg);
+float: left;
 }
