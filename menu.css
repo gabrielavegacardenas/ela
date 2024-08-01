@@ -6,7 +6,7 @@
 #menu{
     margin: auto;
     width: 800px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: cursive;
     position: fixed;
    left:20%;
      
@@ -21,7 +21,7 @@ ul, ol {
 }
 
 .nav li a {
-    background-color: #f357bf;
+    background-color: #cc427c;
     color: #f7f7f7;
     text-decoration: none;
     padding: 10px 12px;
@@ -29,7 +29,7 @@ ul, ol {
 }
 
 .nav li a:hover {
-    background-color: #fda6f9;
+    background-color: #ff71c4;
 }
 
 .nav li ul {
